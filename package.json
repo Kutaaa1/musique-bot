@@ -1,1 +1,12 @@
-
+{
+  "name": "Discord",
+  "version": "0.1.0",
+  "description": "Disocrd musique bot Minego FR",
+  "main": "main.js",
+  "repository": "https://github.com/Kutaaa1/musique-bot.git",
+  "author": "romeocandotti166@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
